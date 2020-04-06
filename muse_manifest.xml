@@ -1,19 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mtxrii.github.io" resolutions="1x" timestamp="1585723353743">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mtxrii.github.io" resolutions="1x" timestamp="1586201249368">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="4038298453"/>
     <file name="master_b-master.css" crc="4008455573" ref="about:contact:code:photos"/>
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="about:contact:code:photos"/>
     <file name="master_a-master.css" crc="388895432" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="about.css" crc="4044204483" ref="about"/>
-    <file name="nomq_about.css" crc="4038350554" ref="about"/>
-    <file name="index.css" crc="324808033" ref="index"/>
+    <file name="about.css" crc="3758515005" ref="about"/>
+    <file name="index.css" crc="23504612" ref="index"/>
     <file name="nomq_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="4001123068" ref="contact"/>
-    <file name="code.css" crc="4012582444" ref="code"/>
-    <file name="nomq_code.css" crc="3841883897" ref="code"/>
-    <file name="photos.css" crc="4093131960" ref="photos"/>
-    <file name="nomq_photos.css" crc="4204043042" ref="photos"/>
+    <file name="contact.css" crc="243254752" ref="contact"/>
+    <file name="code.css" crc="4082800161" ref="code"/>
+    <file name="nomq_code.css" crc="384663429" ref="code"/>
+    <file name="photos.css" crc="3865835220" ref="photos"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>code:phone>photos:phone>contact:index:code:about:photos:contact"/>
@@ -34,13 +32,12 @@
     <file name="form_process.php" crc="37464564" ref="phone>contact"/>
     <file name="form-u18620.php" crc="315588941" ref="phone>contact"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="code:about:photos"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="code"/>
     <file name="form-u8382.php" crc="3964378590" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="3937322328" ref="phone>index"/>
-    <file name="photo-1484417894907-623942c8ee29.jpg" crc="263197129" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="photo-1484417894907-623942c8ee29 (3).jpg" crc="4204542315" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="enlight95 - circle.jpg" crc="4184773767" seo="true" ref="phone>index:phone>about:phone>code:phone>photos:phone>contact:index:code:about:photos:contact">
@@ -53,15 +50,31 @@
       <caption webpage="code" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="img_8601718x594.jpg" crc="4179434027" seo="true" ref="phone>index">
+    <file name="img_8601 (2).jpg" crc="391330266" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="a-master-favicon.ico" crc="3937322328" ref="phone>about"/>
+    <file name="u44866-6.png" crc="4166650246" ref="phone>about"/>
+    <file name="icons8-module-96.png" crc="511201705" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-website-bug-96.png" crc="4174121076" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-programming-96.png" crc="508679521" seo="true" ref="phone>about:about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u45545-6.png" crc="4207664895" ref="phone>about"/>
+    <file name="u45600.png" crc="149219196" ref="phone>about"/>
+    <file name="u45600-r.png" crc="3835519533" ref="phone>about"/>
+    <file name="u45668.png" crc="4219408063" ref="phone>about"/>
+    <file name="u45668-r.png" crc="3869541223" ref="phone>about"/>
     <file name="u20653.png" crc="3847563638" ref="phone>code"/>
     <file name="u20653-r.png" crc="148901031" ref="phone>code"/>
     <file name="u20653-m.png" crc="481978585" ref="phone>code"/>
@@ -81,7 +94,7 @@
     <file name="01 - seoul-crop-u21910.jpg" crc="4281642958" seo="true" ref="phone>photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>photos:index:code:about:photos"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>photos:index:code:photos"/>
     <file name="02 - airplane-crop-u21888.jpg" crc="339921211" seo="true" ref="phone>photos">
       <caption webpage="photos" alt=""/>
     </file>
@@ -125,7 +138,6 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="16 - del valle.jpg" crc="4214459683" seo="true" ref="phone>photos:photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
@@ -269,6 +281,9 @@
     <file name="2560x1600_px_abstract_black_background_circle_colorful_digital_art_minimalism_simple_background-777201298x187.jpg" crc="510382235" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
+    <file name="photo-1484417894907-623942c8ee29.jpg" crc="263197129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="img_8601.jpg" crc="4285889327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -287,116 +302,22 @@
     <file name="u157282.png" crc="4097079678" ref="code"/>
     <file name="u15728-r2.png" crc="76274974" ref="code"/>
     <file name="u15728-m2.png" crc="3995546401" ref="code"/>
-    <file name="01 - seoul.jpg" crc="4163026534" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="02 - airplane.jpg" crc="3900200181" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="03 - fruit stand.jpg" crc="99555584" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="04 - mulege.jpg" crc="388353788" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="05 - havanna.jpg" crc="483559961" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="06 - chocolate.jpg" crc="4097467682" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="07 - rails.jpg" crc="176763513" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="08 - sausalito.jpg" crc="3985201499" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="09 - centipede.jpg" crc="92007684" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="10 - downtown cdmx.jpg" crc="209185672" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="11 - ridgeline.jpg" crc="122436220" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="12 - petco park.jpg" crc="4234218787" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="13 - apgujeong.jpg" crc="302771471" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="14 - va beach.jpg" crc="139146425" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="15 - reflection.jpg" crc="3996977033" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="17 - painted barrell.jpg" crc="499054470" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="18 - bird.jpg" crc="444399866" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="19 - neon.jpg" crc="4018778152" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="20 - flyover.jpg" crc="4233084392" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="21 - bridge.jpg" crc="521103188" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="22 - terrestrial.jpg" crc="244493683" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="23 - raindrop.jpg" crc="123211043" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="24 - bonita vista.jpg" crc="291057969" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="25 - death star.jpg" crc="323460412" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="26 - seals.jpg" crc="3896110328" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
-    </file>
+    <file name="u32558-6.png" crc="4166650246" ref="about"/>
+    <file name="u44248-6.png" crc="4207664895" ref="about"/>
+    <file name="u44264.png" crc="149219196" ref="about"/>
+    <file name="u44264-r.png" crc="3835519533" ref="about"/>
+    <file name="u44274.png" crc="4219408063" ref="about"/>
+    <file name="u44274-r.png" crc="3869541223" ref="about"/>
     <file name="01 - seoul203x253.jpg" crc="3809694277" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
+    </file>
+    <file name="stilts203x259.jpg" crc="3821626231" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="02 - airplane209x209.jpg" crc="12791141" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="03 - fruit stand203x216.jpg" crc="284717339" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
     <file name="04 - mulege-crop-u11618.jpg" crc="463017052" seo="true" ref="photos">
@@ -407,13 +328,11 @@
     </file>
     <file name="06 - chocolate209x210.jpg" crc="3870399409" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="07 - rails-crop-u11711.jpg" crc="4149153610" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="08 - sausalito235x210.jpg" crc="3766647279" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
     <file name="09 - centipede-crop-u11773.jpg" crc="31744336" seo="true" ref="photos">
@@ -421,10 +340,8 @@
     </file>
     <file name="10 - downtown cdmx253x210.jpg" crc="4290495524" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="11 - ridgeline241x210.jpg" crc="4047318520" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
     <file name="12 - petco park-crop-u11866.jpg" crc="3880661816" seo="true" ref="photos">
@@ -432,13 +349,11 @@
     </file>
     <file name="13 - apgujeong203x211.jpg" crc="70854942" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="14 - va beach-crop-u11928.jpg" crc="66887814" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="15 - reflection208x209.jpg" crc="112227446" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
     <file name="16 - del valle-crop-u11990.jpg" crc="256654772" seo="true" ref="photos">
@@ -449,17 +364,14 @@
     </file>
     <file name="18 - bird203x254.jpg" crc="4047843474" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="19 - neon-crop-u12083.jpg" crc="265713574" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="20 - flyover209x210.jpg" crc="3926195670" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="21 - bridge209x210.jpg" crc="3982775270" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
     <file name="22 - terrestrial-crop-u12176.jpg" crc="443950173" seo="true" ref="photos">
@@ -473,46 +385,86 @@
     </file>
     <file name="25 - death star209x210.jpg" crc="105307877" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
-      <caption webpage="photos" alt=""/>
     </file>
     <file name="26 - seals209x210.jpg" crc="248346940" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
+    </file>
+    <file name="01 - seoul.jpg" crc="4163026534" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="04 - mulege-crop-u116182.jpg" crc="463017052" seo="true" ref="photos">
+    <file name="stilts.jpg" crc="312672295" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="05 - havanna-crop-u116492.jpg" crc="4212456273" seo="true" ref="photos">
+    <file name="02 - airplane.jpg" crc="3900200181" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="07 - rails-crop-u117112.jpg" crc="4149153610" seo="true" ref="photos">
+    <file name="03 - fruit stand.jpg" crc="99555584" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="09 - centipede-crop-u117732.jpg" crc="31744336" seo="true" ref="photos">
+    <file name="04 - mulege.jpg" crc="388353788" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="12 - petco park-crop-u118662.jpg" crc="3880661816" seo="true" ref="photos">
+    <file name="05 - havanna.jpg" crc="483559961" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="14 - va beach-crop-u119282.jpg" crc="66887814" seo="true" ref="photos">
+    <file name="06 - chocolate.jpg" crc="4097467682" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="16 - del valle-crop-u119902.jpg" crc="256654772" seo="true" ref="photos">
+    <file name="07 - rails.jpg" crc="176763513" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="17 - painted barrell-crop-u120212.jpg" crc="4202266751" seo="true" ref="photos">
+    <file name="08 - sausalito.jpg" crc="3985201499" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="19 - neon-crop-u120832.jpg" crc="265713574" seo="true" ref="photos">
+    <file name="09 - centipede.jpg" crc="92007684" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="22 - terrestrial-crop-u121762.jpg" crc="443950173" seo="true" ref="photos">
+    <file name="10 - downtown cdmx.jpg" crc="209185672" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="23 - raindrop-crop-u122072.jpg" crc="3872887952" seo="true" ref="photos">
+    <file name="11 - ridgeline.jpg" crc="122436220" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="24 - bonita vista-crop-u122382.jpg" crc="380581932" seo="true" ref="photos">
+    <file name="12 - petco park.jpg" crc="4234218787" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="13 - apgujeong.jpg" crc="302771471" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="14 - va beach.jpg" crc="139146425" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="15 - reflection.jpg" crc="3996977033" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="17 - painted barrell.jpg" crc="499054470" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="18 - bird.jpg" crc="444399866" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="19 - neon.jpg" crc="4018778152" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="20 - flyover.jpg" crc="4233084392" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="21 - bridge.jpg" crc="521103188" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="22 - terrestrial.jpg" crc="244493683" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="23 - raindrop.jpg" crc="123211043" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="24 - bonita vista.jpg" crc="291057969" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="25 - death star.jpg" crc="323460412" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="26 - seals.jpg" crc="3896110328" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="2560x1600_px_abstract_black_background_circle_colorful_digital_art_minimalism_simple_background-777201.jpg" crc="3772643436" seo="true" ref="contact">
@@ -521,24 +473,24 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3696033" ref="phone>about:phone>contact:phone>photos:phone>code:phone>index"/>
+      <file name="master_a-master.css" crc="4119415877" ref="phone>about:phone>contact:phone>photos:phone>code:phone>index"/>
       <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>about:phone>contact:phone>photos:phone>code:phone>index"/>
-      <file name="about.css" crc="3955694086" ref="phone>about"/>
-      <file name="contact.css" crc="4270222673" ref="phone>contact"/>
+      <file name="about.css" crc="102913693" ref="phone>about"/>
+      <file name="contact.css" crc="222025984" ref="phone>contact"/>
       <file name="nomq_contact.css" crc="3824530138" ref="phone>contact"/>
-      <file name="photos.css" crc="4266125001" ref="phone>photos"/>
-      <file name="code.css" crc="212274311" ref="phone>code"/>
-      <file name="index.css" crc="289975962" ref="phone>index"/>
+      <file name="photos.css" crc="4246027192" ref="phone>photos"/>
+      <file name="code.css" crc="4160389191" ref="phone>code"/>
+      <file name="index.css" crc="55775084" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="386053599" seo="true" mt="1585723116405" redirect="true"/>
-    <file name="about.html" crc="170232031" seo="true" mt="1585723074422" redirect="true"/>
-    <file name="code.html" crc="56061407" seo="true" mt="1585723074422" redirect="true"/>
-    <file name="photos.html" crc="3912279595" seo="true" mt="1585723074422" redirect="true"/>
-    <file name="contact.html" crc="4071095586" seo="true" mt="1585723074422" redirect="true"/>
+    <file name="index.html" crc="393062934" seo="true" mt="1586180908654" redirect="true"/>
+    <file name="about.html" crc="446883298" seo="true" mt="1586201126762" redirect="true"/>
+    <file name="code.html" crc="290028602" seo="true" mt="1586180941617" redirect="true"/>
+    <file name="photos.html" crc="337113199" seo="true" mt="1586180908654" redirect="true"/>
+    <file name="contact.html" crc="4199031955" seo="true" mt="1586180908654" redirect="true"/>
   </folder>
-  <file name="index.html" crc="93567132" seo="true" mt="1585644882682" redirect="true"/>
-  <file name="code.html" crc="141460296" seo="true" mt="1585720113120" redirect="true"/>
-  <file name="about.html" crc="181961092" seo="true" mt="1585701857680" redirect="true"/>
-  <file name="photos.html" crc="3892968001" seo="true" mt="1585644882685" redirect="true"/>
-  <file name="contact.html" crc="454198881" seo="true" mt="1585644882687" redirect="true"/>
+  <file name="index.html" crc="420955552" seo="true" mt="1586191946465" redirect="true"/>
+  <file name="code.html" crc="152025834" seo="true" mt="1586191946465" redirect="true"/>
+  <file name="about.html" crc="304401399" seo="true" mt="1586200544762" redirect="true"/>
+  <file name="photos.html" crc="3863326498" seo="true" mt="1586191946465" redirect="true"/>
+  <file name="contact.html" crc="3878775626" seo="true" mt="1586191946465" redirect="true"/>
 </manifest>
