@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'edavalos@ucsc.edu',
-		'to' => 'edavalos@ucsc.edu'
+		'from' => 'contact@edavalos.com',
+		'to' => 'contact@edavalos.com'
 	),
 	'fields' => array(
 		'custom_U8395' => array(
