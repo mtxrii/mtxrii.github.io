@@ -1,0 +1,31 @@
+<svg width="679.2280701754387" height="180.56140350877186" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
+ <defs>
+  <path id="d7pJIFlzJ7" d="m-8.07,123.16l658.53,0l0,176.56l-658.53,0l0,-176.56z"/>
+  <path id="ebzXAoWcwO" d="m303.3,123.16l363.86,0l0,176.56l-363.86,0l0,-176.56z"/>
+  <path id="ah2iJmWy0" d="m303.3,299.72l-311.37,0l0,-90.11l220.24,0l91.13,-86.45l0,176.56z"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" transform="rotate(180 340.1150207519531,91.77999114990233) " id="svg_1">
+   <g stroke="null" id="svg_2">
+    <use stroke="null" transform="matrix(1.0074049120861164,0,0,1.0396465576170717,-3.0088652838678622,-5.066841551313331) " x="11.05679" y="-118.286395" id="svg_3" fill="#99badd" xlink:href="#d7pJIFlzJ7"/>
+   </g>
+   <g stroke="null" id="svg_4">
+    <use stroke="null" transform="matrix(1.0074049120861164,0,0,1.0396465576170717,-3.0088652838678622,-5.066841551313331) " x="11.05679" y="-118.286395" id="svg_5" fill="#181f25" xlink:href="#ebzXAoWcwO"/>
+    <g stroke="null" id="svg_6">
+     <use stroke="#181f25" transform="matrix(1.0074049120861164,0,0,1.0396465576170717,-3.0088652838678622,-5.066841551313331) " x="11.05679" y="-118.286395" id="svg_7" fill-opacity="0" xlink:href="#ebzXAoWcwO"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_8">
+    <use stroke="null" transform="matrix(1.0074049120861164,0,0,1.0396465576170717,-3.0088652838678622,-5.066841551313331) " x="11.05679" y="-118.286395" id="svg_9" fill="#181f25" xlink:href="#ah2iJmWy0"/>
+    <g stroke="null" id="svg_10">
+     <use stroke="#181f25" transform="matrix(1.0074049120861164,0,0,1.0396465576170717,-3.0088652838678622,-5.066841551313331) " x="11.05679" y="-118.286395" id="svg_11" fill-opacity="0" xlink:href="#ah2iJmWy0"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
